@@ -1,4 +1,4 @@
-# Northern Forest SIF Phenology Analysis
+# Climate warming shifts northern forest phenology
 
 R code for stage-resolved forest phenology analysis using GOSIF solar-induced fluorescence (SIF), partial least squares path modeling (PLS-PM), pixel-wise first-difference regression, and CMIP6-based future projections.
 
